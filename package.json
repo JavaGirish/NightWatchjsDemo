@@ -1,0 +1,16 @@
+{
+  "name": "demoproject",
+  "version": "1.0.0",
+  "description": "Nightwatchjs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "author": "Girish Nair",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^84.0.1",
+    "geckodriver": "^1.19.1",
+    "nightwatch": "^1.3.7"
+  }
+}
